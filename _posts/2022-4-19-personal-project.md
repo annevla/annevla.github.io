@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: personal project
 ---
 
-# Title
+# personal project
 
 ## Subtitle
 

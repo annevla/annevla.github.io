@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: growing materials
 ---
 
-# Title
+# growing materials
 
 ## Subtitle
 

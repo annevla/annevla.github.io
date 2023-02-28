@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: week in silico
 ---
 
-# Title
+# week in silico
 
 ## Subtitle
 

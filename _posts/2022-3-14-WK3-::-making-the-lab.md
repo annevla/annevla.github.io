@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: making the lab
 ---
 
-# Title
+# making the lab
 
 ## Subtitle
 
